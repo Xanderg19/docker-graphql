@@ -31,7 +31,7 @@ jobs:
         
     - name: Push Docker Image
       run: 
-        docker push xanderg19/docker_grapql:0.0.2 .
+        docker push xanderg19/docker_grapql:0.0.2 
         
 
     
